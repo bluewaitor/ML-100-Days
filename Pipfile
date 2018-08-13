@@ -9,6 +9,8 @@ numpy = "*"
 pandas = "*"
 sklearn = "*"
 scipy = "*"
+matplotlib = "*"
+jupyter = "*"
 
 [dev-packages]
 
